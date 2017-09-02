@@ -1,0 +1,19 @@
+<trea-header :treaheader="treaheader"></trea-header>
+<trea-banner :treabanner="treabanner"></trea-banner>
+<trea-nav :treanav="treanav" ></trea-nav>
+<trea-fenjiexian ></trea-fenjiexian>
+<trea-dqjx :treadqjx="treadqjx"></trea-dqjx>
+<trea-fenjiexian ></trea-fenjiexian>
+<trea-jjjx :treajjjx="treajjjx"></trea-jjjx>
+<trea-fenjiexian ></trea-fenjiexian>
+<trea-baoxian :treabaoxian="treabaoxian"></trea-baoxian>
+<trea-fenjiexian ></trea-fenjiexian>
+<trea-lczs :trealczs="trealczs"></trea-lczs>
+<trea-fenjiexian ></trea-fenjiexian>
+<trea-tslc :treatslc="treatslc"></trea-tslc>
+<trea-fenjiexian ></trea-fenjiexian>
+<trea-tjyd :treatjyd="treatjyd"></trea-tjyd>
+<trea-fenjiexian ></trea-fenjiexian>
+<trea-gdxx :treagdxx="treagdxx"></trea-gdxx>
+<trea-beijing :treabeijing="treabeijing"></trea-beijing>
+<trea-footer :treafooter="treafooter"></trea-footer>

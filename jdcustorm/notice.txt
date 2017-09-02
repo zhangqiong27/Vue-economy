@@ -1,0 +1,37 @@
+项目模板
+muke_vue
+	dist(webpack打包后文件目录)
+	    index.js（项目入口文件，自己建）
+	    main.bundle.js（打包后文件）
+	node_modules（npm  安装目录）
+	src
+		components(组件)
+			index(整个页面大组件)
+				header(大组件中的小组件)
+		constants(静态变量)
+		public（引用的css、js、img等内容）
+		services(从后台数据库调用方法)
+		router(路由)
+		    index.js(配置路由)
+		app.vue(项目级别组件)
+		main.js
+package.json
+	webpack.config.js（webpack配置文件）
+	textdata(测试数据)
+
+
+	组件建立：
+	<template>
+
+    </template>
+    <script type="text/ecmascript-6">
+        import //引入依赖模块
+        export default {
+          components:{
+                //关联子组件
+           }
+        }
+    </script>
+    <style scoped>
+
+    </style>
